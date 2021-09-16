@@ -5,3 +5,4 @@ Created on 2018年11月1日
 '''
 
 print('Hello world!')
+print('Hello pylint!')
